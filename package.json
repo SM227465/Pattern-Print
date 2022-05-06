@@ -1,0 +1,14 @@
+{
+  "name": "pattern-print",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "debug": "ndb index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ndb": "^1.1.5"
+  }
+}
